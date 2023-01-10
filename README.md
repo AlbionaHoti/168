@@ -35,6 +35,7 @@ We also need topic suggestions etc. But one thing at a time!
 - Muhammad Anas [https://twitter.com/MuhammadAnas707](https://twitter.com/MuhammadAnas707) (status: yes)
 - Adetoye [https://twitter.com/adetoye_dev](https://twitter.com/adetoye_dev) (status: yes)
 - Rupali [https://twitter.com/rupali_codes](https://twitter.com/rupali_codes) (status: yes)
+- Albiona [https://twitter.com/albicodes](https://twitter.com/albicodes)
 
 ## People to approach, speakers and hosts
 - Francesco
@@ -73,6 +74,7 @@ We also need topic suggestions etc. But one thing at a time!
 
 ## People who want to help orhestrate / organise etc.
 - @ehteshaxm
+- @albicodes
 
 ## Potential event name suggestions:
 - Tech Twitter Space Train - YK
